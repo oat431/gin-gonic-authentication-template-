@@ -1,6 +1,8 @@
 # gin-gonic-authentication-template
 for authentication backbone using go-lang to implement
 
+it is a token base authentication 
+
 It will use as a back bone template for other project ( the experiment project for my own practice off course )
 
 # the authentication api consist with
